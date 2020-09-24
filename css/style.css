@@ -1,0 +1,29 @@
+         .si{
+            color:red;
+            background-color: #000;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            display: inline-block;
+           }
+
+       
+        .tag{
+               color:black;
+               background-color: orangered;
+              
+           }
+
+           .tag2{
+            color:white;
+            background-color: yellowgreen;
+        }
+
+        .tag3{
+            color:black;
+            background-color: yellow;
+        }
+
+        .tag4{
+            color:black;
+            background-color: rgb(102, 255, 0);
+        }
